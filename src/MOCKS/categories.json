@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "cursos"
+    },
+    {
+        "id": 2,
+        "name": "cursos gerenciais",
+        "parent": 1
+    },
+    {
+        "id": 3,
+        "name": "cursos administrativos",
+        "parent": 1
+    },
+    {
+        "id": 4,
+        "name": "para aprovação",
+        "parent": 3
+    }
+]

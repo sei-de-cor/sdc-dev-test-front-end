@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "como utilizar",
+        "categories": [1]
+    },
+    {
+        "id": 2,
+        "name": "cursos gerenciais",
+        "categories": [2]
+    },
+    {
+        "id": 3,
+        "name": "curso 2",
+        "categories": [2,3]
+    },
+    {
+        "id": 4,
+        "name": "curso 1",
+        "categories": [2,3]
+    },
+    {
+        "id": 5,
+        "name": "curso 3",
+        "categories": [2,3]
+    },
+    {
+        "id": 6,
+        "name": "curso 4",
+        "categories": [2,3]
+    },
+    {
+        "id": 7,
+        "name": "curso 5 - para aprovar",
+        "categories": []
+    }
+]
